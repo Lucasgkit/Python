@@ -1,6 +1,6 @@
 # Jogo de Cálculo 🧮
 
-Este projeto é um **jogo interativo em Python** que testa sua rapidez e precisão em operações matemáticas básicas.
+Este projeto é um **jogo interativo em Python** que testa sua precisão em operações matemáticas básicas.
 
 ---
 
