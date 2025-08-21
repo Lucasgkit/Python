@@ -1,7 +1,7 @@
 # Projetos em Python 🐍
 
 ## 📌 Sobre
-Este repositório foi criado para organizar meus projetos de Python.
+Este repositório foi criado para organizar e armazenar meus primeiros projetos em Python.
 
 ## 📂 Lista de Projetos
 
