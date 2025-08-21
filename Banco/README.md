@@ -1,4 +1,4 @@
-Sistema de Banco 🏦
+# Sistema de Banco 🏦
 Um projeto de gerenciamento simplificado de contas bancárias.
 
 Como usar:
